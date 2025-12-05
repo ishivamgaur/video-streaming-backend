@@ -2,8 +2,8 @@
   "name": "ott-b",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "type": "commonjs",
+  "main": "src/server.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/server.js"
   },
